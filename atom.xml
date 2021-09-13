@@ -6,7 +6,7 @@
   <link href="https://jekkiabee.github.io/atom.xml" rel="self"/>
   
   <link href="https://jekkiabee.github.io/"/>
-  <updated>2021-08-30T13:13:04.811Z</updated>
+  <updated>2021-09-13T11:51:36.775Z</updated>
   <id>https://jekkiabee.github.io/</id>
   
   <author>
@@ -17,31 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="https://jekkiabee.github.io/2021/08/30/My-New-Post-0/"/>
-    <id>https://jekkiabee.github.io/2021/08/30/My-New-Post-0/</id>
-    <published>2021-08-30T13:13:04.000Z</published>
-    <updated>2021-08-30T13:13:04.811Z</updated>
+    <title>new-post</title>
+    <link href="https://jekkiabee.github.io/2021/09/13/new-post/"/>
+    <id>https://jekkiabee.github.io/2021/09/13/new-post/</id>
+    <published>2021-09-13T11:36:51.000Z</published>
+    <updated>2021-09-13T11:51:36.775Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://jekkiabee.github.io/2021/08/30/my-new-post/"/>
-    <id>https://jekkiabee.github.io/2021/08/30/my-new-post/</id>
-    <published>2021-08-30T13:12:47.294Z</published>
-    <updated>2021-08-30T13:12:47.295Z</updated>
-    
-    <content type="html"><![CDATA[<img src="C:\Users\wb.wuchuyu\AppData\Roaming\Typora\typora-user-images\image-20210830211217839.png" alt="image-20210830211217839" style="zoom:200%;" />]]></content>
+    <content type="html"><![CDATA[<img src="/2021/09/13/new-post/blog01.jpg" alt="blog01" style="zoom:50%;"><p><img src="/2021/09/13/new-post/popo.png" alt="post"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;img src=&quot;C:\Users\wb.wuchuyu\AppData\Roaming\Typora\typora-user-images\image-20210830211217839.png&quot; alt=&quot;image-20210830211217839&quot; style=&quot;zo</summary>
+    <summary type="html">&lt;img src=&quot;/2021/09/13/new-post/blog01.jpg&quot; alt=&quot;blog01&quot; style=&quot;zoom:50%;&quot;&gt;
+
+&lt;p&gt;&lt;img src=&quot;/2021/09/13/new-post/popo.png&quot; alt=&quot;post&quot;&gt;&lt;/p&gt;
+</summary>
       
     
     
