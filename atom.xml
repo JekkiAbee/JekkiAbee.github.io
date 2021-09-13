@@ -3,11 +3,11 @@
   <title></title>
   
   
-  <link href="https://jekkiabee.github.io/atom.xml" rel="self"/>
+  <link href="https://zhangloo.com/atom.xml" rel="self"/>
   
-  <link href="https://jekkiabee.github.io/"/>
+  <link href="https://zhangloo.com/"/>
   <updated>2021-09-13T12:01:27.525Z</updated>
-  <id>https://jekkiabee.github.io/</id>
+  <id>https://zhangloo.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>new-post</title>
-    <link href="https://jekkiabee.github.io/2021/09/13/new-post/"/>
-    <id>https://jekkiabee.github.io/2021/09/13/new-post/</id>
+    <link href="https://zhangloo.com/2021/09/13/new-post/"/>
+    <id>https://zhangloo.com/2021/09/13/new-post/</id>
     <published>2021-09-13T11:36:51.000Z</published>
     <updated>2021-09-13T12:01:27.525Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jekkiabee.github.io/2021/08/03/hello-world/"/>
-    <id>https://jekkiabee.github.io/2021/08/03/hello-world/</id>
+    <link href="https://zhangloo.com/2021/08/03/hello-world/"/>
+    <id>https://zhangloo.com/2021/08/03/hello-world/</id>
     <published>2021-08-03T05:07:38.617Z</published>
     <updated>2021-08-03T04:42:17.436Z</updated>
     

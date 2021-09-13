@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jekkiabee.github.io/2021/09/13/new-post/</loc>
+    <loc>https://zhangloo.com/2021/09/13/new-post/</loc>
     
     <lastmod>2021-09-13</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jekkiabee.github.io/2021/08/03/hello-world/</loc>
+    <loc>https://zhangloo.com/2021/08/03/hello-world/</loc>
     
     <lastmod>2021-08-03</lastmod>
     
@@ -17,7 +17,7 @@
   
 
   <url>
-    <loc>https://jekkiabee.github.io/</loc>
+    <loc>https://zhangloo.com/</loc>
     <lastmod>2021-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
